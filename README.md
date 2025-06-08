@@ -31,7 +31,7 @@
 
 ## 💻 About Me
 
-Passionate about technology, design and turning ideas into things that really work. I like to create beautiful, responsive interfaces that make sense to the user. 
+Passionate about technology and design and turning ideas into things that really work. I like to create beautiful and responsive interfaces that make sense to the user. 
 <br />
 
-Today my focus is to immerse myself more and more in the React universe and, in addition, explore a bit of the backend to become a more complete dev. 🚀
+Today my focus is to immerse myself more and more in the React universe and in addition explore a bit of the backend to become a more complete dev. 🚀
