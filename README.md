@@ -26,7 +26,7 @@
 </div>
 <br />
 
-- Others: API Integration, Responsive Design, UI/UX Best Practices
+- Others: API Integration and Responsive Design and UI/UX Best Practices
 <br />
 
 ## 💻 About Me
